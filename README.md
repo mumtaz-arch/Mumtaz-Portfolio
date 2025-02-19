@@ -1,2 +1,0 @@
-# Mumtaz-Portfolio
-Web
